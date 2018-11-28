@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">/* 引入MathJax，显示公式 */</script>
+﻿<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">/* 引入MathJax，显示公式 */</script>
 
 # markdown语法总结
 <font size='3' color="grey">`BoxunWang`  `Markdown语法`</font>
